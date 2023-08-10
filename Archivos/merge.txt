@@ -1,0 +1,1 @@
+Una carpeta vacia no representa ningun cambio al repositorio.
