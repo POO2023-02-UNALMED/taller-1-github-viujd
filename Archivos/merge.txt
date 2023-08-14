@@ -1,0 +1,3 @@
+Nombre: Juan David Robayo
+Edad: 17 años
+Aspiraciones: Aprobar el curso de POO con los conocimiento y conceptos básicos y aplicables para el desarrollo de mi plan académico.
