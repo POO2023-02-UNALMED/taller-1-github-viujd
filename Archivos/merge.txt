@@ -1,3 +1,9 @@
 Nombre: Juan David Robayo
 Edad: 17 años
 Aspiraciones: Aprobar el curso de POO con los conocimiento y conceptos básicos y aplicables para el desarrollo de mi plan académico.
+
+¿Por qué ahora si puedo crear un commit y subir la carpeta?
+Una carpeta vacia no representa ningun cambio al repositorio.
+
+¿Por qué es importante tener cuidado con modificar dos archivos al mismo tiempo?
+Modificar dos archivos al mismo tiempo en GitHub, o en cualquier sistema de control de versiones, puede llevar a problemas y conflictos que dificultan la colaboración eficiente y la gestión del código o archivo, conflictos tales como de fusión, dificultad de rastreo de archivo y seguimiento de cambios, complejidad en la revisión del archivo y posible pérdida de este.
